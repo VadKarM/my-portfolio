@@ -7,7 +7,7 @@
 ### Мои навыки
 - **Языки программирования**: *Изучаю* Python, Markdown
 - **Фреймворки**: *Изучаю* React, Node.js
-- **Инструменты**: Git, VS Code, Gigavers, GigaIDE
+- **Инструменты**: Git, VS Code, GitVerse, GigaIDE
 
 ### Контактная информация
 - 📧 Email: kvasy@mail.ru
